@@ -2,4 +2,4 @@
 
 
 **** IN PROCESS ****
-Gem Classification from a given image, using neural network
+Classification of gems from a given image, using a neural network
