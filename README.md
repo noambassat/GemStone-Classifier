@@ -1,2 +1,5 @@
 # GemStone-Classifier
-Gem Classification from a given image
+
+
+**** IN PROCESS ****
+Gem Classification from a given image, using neural network
